@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-avfc-theme': {
+      'plugin-avfc-mode': {
         cssPath: 'styles/light.css',
         darkMode: false
       }
