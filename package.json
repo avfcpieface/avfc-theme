@@ -1,5 +1,5 @@
 {
-  "name": "@pieface/aston-villa-theme",
+  "name": "@pieface/avfc-theme",
   "version": "0.0.1",
   "description": "Aston Villa theme for the ARK Desktop Wallet",
   "main": "src/index.js",
