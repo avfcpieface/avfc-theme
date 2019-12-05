@@ -1,111 +1,96 @@
 .theme-plugin-avfc-mode {
-  --theme-page: #edf4f5;
-  --theme-page-text: #3b4559;
-  --theme-page-text-light: #9ea7bc;
-  --theme-page-instructions-text: #3b4559;
-  --theme-page-instructions-background: rgba(200,200,200,0.4);
-  --theme-modal: #ffffff;
-
-  --theme-intro-gradient-1: rgba(255,255,255,0);
-  --theme-intro-gradient-2: rgba(255,255,255,0.95);
-
-  --theme-header-text: #2b3748;
-  --theme-caption-text: #000;
-  --theme-caption-read: #8795a1;
-  --theme-announcements-gradient-1: rgba(255,255,255,0);
-  --theme-announcements-gradient-2: rgba(255,255,255,0.95);
-
-  --theme-line-separator: #dae1e7;
-  --theme-wallet-overview-border: #dae1e7;
-
-  --theme-table-row-hover: #f8f9fd;
-  --theme-transaction-sent: #fef4f5;
-  --theme-transaction-sent-arrow: #e51317;
-  --theme-transaction-received: #e3fcec;
-  --theme-transaction-received-arrow: #2db761;
-  --theme-send-circle-second-signature: #6c5494;
-  --theme-send-circle-second-signature-text: #3b2d54;
-  --theme-send-circle-register-delegate: #d24562;
-  --theme-send-circle-register-delegate-text: #ffffff;
-  --theme-send-circle-vote: #e393a6;
-  --theme-send-circle-vote-text: #954458;
-  --theme-transaction-detail-gradient1: #46466b;
-  --theme-transaction-detail-gradient2: #343a53;
-  --theme-transaction-detail-arrow: #4d536c;
-
-  --theme-wallet-new-selected: #282a2b;
-  --theme-wallet-new-unselected: #9ea7bc;
-  --theme-wallet-sign-verify-message-text: #c5cfde;
-  --theme-wallet-grid-shadow: 0 5px 30px rgba(124,138,192,0.22);
-
-  --theme-feature: white;
-  --theme-feature-item-text: #c0cddf;
-  --theme-feature-item-hover: #fef4f5;
-  --theme-feature-item-alternative: #f0f2f9;
-  --theme-feature-item-alternative-text: #8b9bab;
-  --theme-feature-item-hover-text: #e6b1b5;
-  --theme-feature-item-selected: #fef4f5;
-  --theme-feature-item-selected-text: #ce6970;
-  --theme-feature-item-indicator: #f03643;
-
-  --theme-secondary-feature: #f7f9fb;
-
-  --theme-button-special-choice: #e78068;
-
-  --theme-heading-background: #343956;
-  --theme-heading-text: #c0cddf;
-
-  --theme-chart-background: #f8fafc;
-  --theme-chart-price: #3b4559;
-
-  --theme-button: #e0f0fd;
-  --theme-button-active: #c5dbed;
-  --theme-button-text: #037cff;
-  --theme-button-light: #f1f5f8;
-  --theme-button-light-text: #8795a1;
-  --theme-button-inner-box: #c6dcee;
-  --theme-action-button: #eff0f6;
-  --theme-action-button-text: #8d93ad;
-  --theme-action-button-text-hover: #789fba;
-  --theme-option-button: #3d456d;
-  --theme-option-button-hover: #cc5e60;
-  --theme-option-button-text: #8894cf;
-  --theme-switch-button: #e0f0fd;
-  --theme-option-heading-button: #3d456d;
-  --theme-option-heading-button-hover: #cc5e60;
-  --theme-option-heading-button-text: #8894cf;
-  --theme-input-toggle-choice: #f1f5f8;
-  --theme-input-toggle-choice-text: #606f7b;
-  --theme-input-field-border: #b9c2d7;
-  --theme-modal-footer-button: #e7d28e;
-  --theme-modal-footer-button-text: #b3a36f;
-
-  --theme-explanation-background: #e2edf8;
-  --theme-explanation-text: #7f95ab;
-
-  --theme-settings: white;
-  --theme-settings-hover: #f0f1f8;
-  --theme-settings-sub: #2d3747; /* NOTE: not used on light theme */
-  --theme-settings-button: #2d3747; /* NOTE: not used on light theme */
-  --theme-settings-heading: #2d3747;
-  --theme-settings-border: #f1f2f8;
-  --theme-settings-text: #8a91b8;
-  --theme-settings-text-hover: #8a91b8;
-  --theme-settings-switch: #f1f4f7;
-  --theme-settings-control-title: #2d3747;
-
-  --theme-voting-banner-background: #e2edf8;
-  --theme-voting-banner-text: #7f95ab;
-  --theme-voting-banner-button: #cfddec;
-  --theme-voting-banner-button-hover: #b1c9e2;
-  --theme-voting-banner-button-text: #90a9c6;
-  --theme-voting-banner-button-text-hover: #6785a9;
-
-  --theme-fee-gradient-start: var(--theme-modal);
-  --theme-fee-gradient-end: rgba(0,124,255,0.20);
-  --theme-fee-handler-outside: var(--theme-button-text);
-  --theme-fee-handler-inside: var(--theme-modal);
-  --theme-fee-range-track: var(--theme-page-text-light);
-  --theme-fee-range-track-active: var(--theme-button-text);
-  --theme-fee-range-shadow: rgba(9, 100, 228, 0.34);
+ --theme-page: #670E36;
+    --theme-page-text: #670E36;
+    --theme-page-text-light: #670E36;
+    --theme-page-instructions-text: #670E36;
+    --theme-page-instructions-background: rgba(103, 14, 54, 0.4);
+    --theme-modal: #fff;
+    --theme-intro-gradient-1: rgba(103, 14, 54, 0.04);
+    --theme-intro-gradient-2: rgba(255, 255, 255, .95);
+    --theme-header-text: #670E36;
+    --theme-caption-text: #670E36;
+    --theme-caption-read: #670E36;
+    --theme-announcements-gradient-1: rgba(255, 255, 255, 0);
+    --theme-announcements-gradient-2: rgba(255, 255, 255, .95);
+    --theme-line-separator: #670E36;
+    --theme-wallet-overview-border: #670E36;
+    --theme-table-row-hover: #670E36;
+    --theme-transaction-sent: #670E36;
+    --theme-transaction-sent-arrow: #670E36;
+    --theme-transaction-received: #670E36;
+    --theme-transaction-received-arrow: #670E36;
+    --theme-send-circle-second-signature: #670E36;
+    --theme-send-circle-second-signature-text: #3b2d54;
+    --theme-send-circle-register-delegate: #670E36;
+    --theme-send-circle-register-delegate-text: #670E36;
+    --theme-send-circle-vote: #670E36;
+    --theme-send-circle-vote-text: #954458;
+    --theme-transaction-detail-gradient1: #46466b;
+    --theme-transaction-detail-gradient2: #343a53;
+    --theme-transaction-detail-arrow: #4d536c;
+    --theme-wallet-new-selected: #282a2b;
+    --theme-wallet-new-unselected: #670E36;
+    --theme-wallet-sign-verify-message-text: #670E36;
+    --theme-wallet-grid-shadow: 0 5px 30px rgba(103, 14, 54, 0);
+    --theme-feature: #95BFE5;
+    --theme-feature-item-text: #670E36;
+    --theme-feature-item-hover: #95BFE5;
+    --theme-feature-item-alternative: #670E36;
+    --theme-feature-item-alternative-text: #FEE505;
+    --theme-feature-item-hover-text: #670E36;
+    --theme-feature-item-selected: #670E36;
+    --theme-feature-item-selected-text: #FEE505;
+    --theme-feature-item-indicator: #670E36;
+    --theme-secondary-feature: #670E36;
+    --theme-button-special-choice: #670E36;
+    --theme-heading-background: #670E36;
+    --theme-heading-text: #FEE505;
+    --theme-chart-background: #670E36;
+    --theme-chart-price: #670E36;
+    --theme-button: #670E36;
+    --theme-button-active: #670E36;
+    --theme-button-text: #FEE505;
+    --theme-button-light: #FEE505;
+    --theme-button-light-text: #670E36;
+    --theme-button-inner-box: #670E36;
+    --theme-action-button: #FEE505;
+    --theme-action-button-text: #FEE505;
+    --theme-action-button-text-hover: #FEE505;
+    --theme-option-button: #670E36;
+    --theme-option-button-hover: #FEE505;
+    --theme-option-button-text: #670E36;
+    --theme-switch-button: #670E36;
+    --theme-option-heading-button: #670E36;
+    --theme-option-heading-button-hover: #FEE505;
+    --theme-option-heading-button-text: #8894cf;
+    --theme-input-toggle-choice: #FEE505;
+    --theme-input-toggle-choice-text: #FEE505;
+    --theme-input-field-border: #670E36;
+    --theme-modal-footer-button: #FEE505;
+    --theme-modal-footer-button-text: #FEE505;
+    --theme-explanation-background: #FEE505;
+    --theme-explanation-text: #FEE505;
+    --theme-settings: #FEE505;
+    --theme-settings-hover: #FEE505;
+    --theme-settings-sub: #FEE505;
+    --theme-settings-button: #FEE505;
+    --theme-settings-heading: #FEE505;
+    --theme-settings-border: #f1f2f8;
+    --theme-settings-text: #8a91b8;
+    --theme-settings-text-hover: #FEE505;
+    --theme-settings-switch: #f1f4f7;
+    --theme-settings-control-title: #2d3747;
+    --theme-voting-banner-background: #e2edf8;
+    --theme-voting-banner-text: #7f95ab;
+    --theme-voting-banner-button: #cfddec;
+    --theme-voting-banner-button-hover: #FEE505;
+    --theme-voting-banner-button-text: #670E36;
+    --theme-voting-banner-button-text-hover: #FEE505;
+    --theme-fee-gradient-start: var(--theme-modal);
+    --theme-fee-gradient-end: rgba(0, 124, 255, .2);
+    --theme-fee-handler-outside: var(--theme-button-text);
+    --theme-fee-handler-inside: var(--theme-modal);
+    --theme-fee-range-track: var(--theme-page-text-light);
+    --theme-fee-range-track-active: var(--theme-button-text);
+    --theme-fee-range-shadow: rgba(9, 100, 228, .34);
 }
