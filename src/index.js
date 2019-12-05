@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
+      'plugin-Aston-Villa-Theme': {
         cssPath: 'styles/light.css',
         darkMode: false
       }
