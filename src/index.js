@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-Aston-Villa-Theme': {
+      'plugin-avfc-theme': {
         cssPath: 'styles/light.css',
         darkMode: false
       }
