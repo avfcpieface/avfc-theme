@@ -8,12 +8,12 @@
   "desktop-wallet": {
     "title": "Aston Villa Theme",
     "images": [
-      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image1.jpeg",
-      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image2.jpeg",
-      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image3.jpg",
-      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image4.jpg",
-      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image5.jpeg",
-      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image6.jpeg"
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image1.png",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image2.png",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image3.png",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image4.png",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image5.png",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image6.png"
     ],
     "categories": [
       "theme"
