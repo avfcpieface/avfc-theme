@@ -7,7 +7,14 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "Aston Villa Theme",
-
+    "images": [
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image1.jpeg",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image2.jpeg",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image3.jpg",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image4.jpg",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image5.jpeg",
+      "https://raw.githubusercontent.com/avfcpieface/avfc-theme/master/image6.jpeg"
+    ],
     "categories": [
       "theme"
     ],
