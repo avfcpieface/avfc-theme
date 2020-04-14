@@ -1,6 +1,6 @@
 {
   "name": "@pieface/avfc-theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Aston Villa theme for the ARK Desktop Wallet",
   "main": "src/index.js",
   "author": "PieFacE",
